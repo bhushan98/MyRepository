@@ -5,6 +5,8 @@ import java.util.List;
 import com.cg.entity.Trainer;
 import com.cg.exception.TrainerNotFound;
 
+//Hello from isha
+
 public interface TrainerDao {
 	
 	List<Trainer> listAll();
